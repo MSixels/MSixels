@@ -4,13 +4,6 @@
 
 <p align="left">Hi! I'm Matheus Sixel, a front-end developer focused on building elegant and functional solutions with React, JavaScript, HTML5, and CSS3. I'm expanding into fullstack development and always looking for new challenges. Let's create something amazing together!</p>
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">💻 Current Focus<br>I'm currently diving into fullstack development to expand my knowledge and unlock more opportunities in the tech world. I love tackling complex challenges and learning through hands-on experience.<br><br>🚀 Recent Projects<br><br>E-commerce App: A fully functional online store for food, featuring country-based categorization, cart system, and secure payment integration.<br>Social Media Prototype: A social network mockup where users can interact through posts, likes, and comments.<br>🌱 Learning & Growth<br>Always learning, whether it's improving my coding skills or exploring new areas in tech, I’m committed to staying up-to-date and pushing my boundaries.<br><br>📫 Let's Connect</p>
 
 ###
 
